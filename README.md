@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakverma-dev" alt="deepakverma-dev" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-verma" alt="deepakverma-dev" /></a>
 </p>
 
 <p align="left">
