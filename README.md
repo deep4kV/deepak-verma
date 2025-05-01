@@ -1,26 +1,29 @@
 <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+  <tr>
+    <td width="60%">
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=deepak-verma&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-verma" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=deepak-verma&theme=flat" alt="GitHub Trophies" />
+        </a>
+      </p>
+    </td>
+    <td width="40%">
+      <img align="right" alt="coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deepakverma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="deepakverma-dev" />
-</p>
+---
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-verma" alt="deepakverma-dev" /></a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/your_twitter" target="blank"><img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-</p>
-
-- 🔭 I’m currently working on **Banking Management System**
-
-- 🌱 I’m currently learning **Java, Spring Boot, SQL**
-
-- 👯 I’m looking to collaborate on **Java Projects**
-
+- 🔭 I’m currently working on **Banking Management System**  
+- 🌱 I’m currently learning **Java, Spring Boot, SQL**  
+- 👯 I’m looking to collaborate on **Java Projects**  
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 ---
@@ -54,8 +57,14 @@
 
 ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-verma&show_icons=true&locale=en&layout=compact" alt="deepak-verma /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-verma&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-verma&show_icons=true&locale=en" alt="deepak-verma" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-verma&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-verma&" alt="deepak-verma" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-verma" alt="GitHub Streak" />
+</p>
