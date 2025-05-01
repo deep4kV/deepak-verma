@@ -7,10 +7,10 @@
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=deepak-verma&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-verma" />
       </p>
+
+      <!-- GitHub Trophies (3 per row, 2 rows) -->
       <p align="left">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=deepak-verma&theme=flat" alt="GitHub Trophies" />
-        </a>
+        <img src="https://github-profile-trophy.vercel.app/?username=deepak-verma&theme=flat&row=2&column=3" alt="GitHub Trophies" />
       </p>
     </td>
     <td width="40%">
