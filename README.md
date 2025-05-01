@@ -54,8 +54,8 @@
 
 ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakverma-dev&show_icons=true&locale=en&layout=compact" alt="deepakverma-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakverma-dev&show_icons=true&locale=en&layout=compact" alt="deepak-verma /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakverma-dev&show_icons=true&locale=en" alt="deepakverma-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakverma-dev&show_icons=true&locale=en" alt="deepak-verma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakverma-dev&" alt="deepakverma-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakverma-dev&" alt="deepak-verma" /></p>
