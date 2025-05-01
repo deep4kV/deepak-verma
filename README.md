@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
-
+<img align="right" alt="coding" width="400" src ="https://images.app.goo.gl/g9WypJzyRiMj6QUJ8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak&label=Profile%20views&color=0e75b6&style=flat" alt="deepak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak" alt="deepak" /></a> </p>
